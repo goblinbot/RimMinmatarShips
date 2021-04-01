@@ -3,77 +3,72 @@
 	<EnemyShipDef>
 		<defName>Rifter</defName>
 		<label>[INSERT IN-GAME NAME HERE]</label>
-		<combatPoints>244</combatPoints>
+		<combatPoints>276</combatPoints>
 		<parts>
 			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>12</x>
-				<z>51</z>
+				<shapeOrDef>ShipTorpedo_HighExplosive</shapeOrDef>
+				<x>5</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTorpedo_HighExplosive</shapeOrDef>
+				<x>5</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTorpedo_HighExplosive</shapeOrDef>
+				<x>23</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTorpedo_HighExplosive</shapeOrDef>
+				<x>23</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>WoodLog</shapeOrDef>
+				<x>20</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>Chemfuel</shapeOrDef>
+				<x>9</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>Chemfuel</shapeOrDef>
+				<x>8</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>MealSurvivalPack</shapeOrDef>
+				<x>31</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>MealSurvivalPack</shapeOrDef>
+				<x>31</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>MealSurvivalPack</shapeOrDef>
+				<x>19</x>
+				<z>57</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>12</x>
+				<x>16</x>
 				<z>52</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>12</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>12</x>
-				<z>54</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>13</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>15</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>16</x>
-				<z>51</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>16</x>
-				<z>52</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>16</x>
 				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>16</x>
-				<z>54</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>12</x>
-				<z>50</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>16</x>
-				<z>50</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>17</x>
 				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>16</x>
-				<z>57</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
@@ -94,37 +89,6 @@
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>11</x>
 				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>12</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>14</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>12</x>
-				<z>62</z>
-				<rot>1</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>13</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>14</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>15</x>
-				<z>61</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
@@ -152,12 +116,6 @@
 				<z>65</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipInside_PassiveVent</shapeOrDef>
-				<x>16</x>
-				<z>63</z>
-				<rot>3</rot>
-			</li>
-			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>13</x>
 				<z>62</z>
@@ -171,11 +129,6 @@
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>13</x>
 				<z>64</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>14</x>
-				<z>62</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
@@ -201,20 +154,10 @@
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>15</x>
 				<z>64</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>16</x>
-				<z>62</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>10</x>
-				<z>63</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>11</x>
 				<z>63</z>
 			</li>
 			<li>
@@ -250,17 +193,7 @@
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>11</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>11</x>
 				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>11</x>
-				<z>59</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
@@ -279,21 +212,6 @@
 			</li>
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>10</x>
-				<z>56</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>13</x>
-				<z>54</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>13</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>13</x>
 				<z>56</z>
 			</li>
@@ -355,17 +273,7 @@
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>15</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>15</x>
 				<z>56</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>15</x>
-				<z>57</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
@@ -415,11 +323,6 @@
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>12</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>12</x>
 				<z>58</z>
 			</li>
 			<li>
@@ -431,26 +334,6 @@
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>12</x>
 				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_SensorCluster</shapeOrDef>
-				<x>15</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>12</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>13</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>Heater</shapeOrDef>
-				<x>13</x>
-				<z>54</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
@@ -461,22 +344,6 @@
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>7</x>
 				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>8</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>7</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>10</x>
-				<z>56</z>
-				<rot>1</rot>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
@@ -487,26 +354,6 @@
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>5</x>
 				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>7</x>
-				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>7</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>7</x>
-				<z>62</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>7</x>
-				<z>63</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
@@ -612,11 +459,6 @@
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>5</x>
 				<z>65</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>7</x>
-				<z>64</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
@@ -931,11 +773,6 @@
 				<z>54</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>-5</x>
-				<z>53</z>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>-9</x>
 				<z>59</z>
@@ -968,22 +805,12 @@
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-11</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>-9</x>
 				<z>53</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>-8</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-7</x>
 				<z>53</z>
 			</li>
 			<li>
@@ -1005,21 +832,6 @@
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>-12</x>
 				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-12</x>
-				<z>54</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-12</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-12</x>
-				<z>58</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
@@ -1115,31 +927,6 @@
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>-7</x>
 				<z>56</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-7</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-6</x>
-				<z>54</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-6</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-6</x>
-				<z>56</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-6</x>
-				<z>57</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
@@ -1237,21 +1024,6 @@
 			</li>
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>8</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>9</x>
-				<z>56</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>9</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>-10</x>
 				<z>58</z>
 			</li>
@@ -1268,11 +1040,6 @@
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>-7</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-6</x>
 				<z>58</z>
 			</li>
 			<li>
@@ -1316,98 +1083,6 @@
 				<z>58</z>
 			</li>
 			<li>
-				<shapeOrDef>Heater</shapeOrDef>
-				<x>-6</x>
-				<z>54</z>
-			</li>
-			<li>
-				<shapeOrDef>StandingLamp</shapeOrDef>
-				<x>-6</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>-12</x>
-				<z>56</z>
-				<rot>1</rot>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>-12</x>
-				<z>52</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>-15</x>
-				<z>52</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>54</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>56</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>59</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>62</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>63</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>-15</x>
-				<z>64</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
-				<x>-13</x>
-				<z>53</z>
-			</li>
-			<li>
 				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
 				<x>-14</x>
 				<z>53</z>
@@ -1521,11 +1196,6 @@
 				<x>8</x>
 				<z>64</z>
 				<rot>1</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>16</x>
-				<z>55</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
@@ -1547,17 +1217,6 @@
 				<x>1</x>
 				<z>53</z>
 				<rot>3</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneOne</shapeOrDef>
-				<x>11</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneOne</shapeOrDef>
-				<x>17</x>
-				<z>53</z>
-				<rot>1</rot>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Corner_OneOne</shapeOrDef>
@@ -1589,11 +1248,6 @@
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>19</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>20</x>
 				<z>55</z>
 			</li>
 			<li>
@@ -1622,20 +1276,9 @@
 				<z>55</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>21</x>
-				<z>55</z>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>18</x>
 				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>18</x>
-				<z>56</z>
-				<rot>1</rot>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
@@ -1662,31 +1305,6 @@
 				<shapeOrDef>ShipAirlock</shapeOrDef>
 				<x>22</x>
 				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>21</x>
-				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>21</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>21</x>
-				<z>62</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>21</x>
-				<z>63</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>21</x>
-				<z>64</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
@@ -1925,11 +1543,6 @@
 				<z>61</z>
 			</li>
 			<li>
-				<shapeOrDef>StandingLamp</shapeOrDef>
-				<x>13</x>
-				<z>57</z>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>-3</x>
 				<z>60</z>
@@ -1971,26 +1584,6 @@
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>10</x>
-				<z>64</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>11</x>
-				<z>64</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>17</x>
-				<z>64</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>18</x>
-				<z>64</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
@@ -2153,17 +1746,7 @@
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>39</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>34</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>35</x>
 				<z>53</z>
 			</li>
 			<li>
@@ -2213,11 +1796,6 @@
 				<rot>1</rot>
 			</li>
 			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>33</x>
-				<z>53</z>
-			</li>
-			<li>
 				<shapeOrDef>StandingLamp</shapeOrDef>
 				<x>32</x>
 				<z>55</z>
@@ -2225,21 +1803,6 @@
 			<li>
 				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
 				<x>37</x>
-				<z>52</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>38</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>40</x>
-				<z>52</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>43</x>
 				<z>52</z>
 			</li>
 			<li>
@@ -2254,44 +1817,13 @@
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>40</x>
-				<z>54</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>40</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>40</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>40</x>
 				<z>59</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>40</x>
-				<z>56</z>
-				<rot>1</rot>
-			</li>
-			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>31</x>
 				<z>56</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>31</x>
-				<z>57</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
@@ -2321,11 +1853,6 @@
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>33</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>33</x>
 				<z>56</z>
 			</li>
 			<li>
@@ -2337,11 +1864,6 @@
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>33</x>
 				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>34</x>
-				<z>54</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
@@ -2447,16 +1969,6 @@
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>38</x>
 				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>38</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>39</x>
-				<z>54</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
@@ -2600,11 +2112,6 @@
 			</li>
 			<li>
 				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
-				<x>41</x>
-				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
 				<x>42</x>
 				<z>53</z>
 			</li>
@@ -2624,56 +2131,6 @@
 				<z>62</z>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>63</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>54</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>55</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>56</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>59</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>62</z>
-			</li>
-			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>41</x>
 				<z>54</z>
@@ -2752,11 +2209,6 @@
 				<shapeOrDef>ShipHullTile</shapeOrDef>
 				<x>42</x>
 				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>SpaceCrewMarine</shapeOrDef>
-				<x>31</x>
-				<z>57</z>
 			</li>
 			<li>
 				<shapeOrDef>TubeTelevision</shapeOrDef>
@@ -2774,12 +2226,6 @@
 				<shapeOrDef>Stool</shapeOrDef>
 				<stuff>WoodLog</stuff>
 				<x>37</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>Stool</shapeOrDef>
-				<stuff>WoodLog</stuff>
-				<x>38</x>
 				<z>58</z>
 			</li>
 			<li>
@@ -2831,36 +2277,6 @@
 				<z>56</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
-				<x>-11</x>
-				<z>52</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
-				<x>-10</x>
-				<z>52</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
-				<x>38</x>
-				<z>52</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
-				<x>39</x>
-				<z>52</z>
-			</li>
-			<li>
-				<shapeOrDef>StandingLamp</shapeOrDef>
-				<x>39</x>
-				<z>52</z>
-			</li>
-			<li>
-				<shapeOrDef>StandingLamp</shapeOrDef>
-				<x>-11</x>
-				<z>52</z>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>4</x>
 				<z>66</z>
@@ -2889,17 +2305,6 @@
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>4</x>
 				<z>71</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>4</x>
-				<z>72</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>4</x>
-				<z>73</z>
-				<rot>1</rot>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
@@ -3664,28 +3069,8 @@
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>5</x>
-				<z>97</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>6</x>
-				<z>97</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
 				<x>7</x>
 				<z>97</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>5</x>
-				<z>98</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>6</x>
-				<z>98</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
@@ -3786,11 +3171,6 @@
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
 				<x>24</x>
-				<z>72</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>24</x>
 				<z>74</z>
 			</li>
 			<li>
@@ -3843,12 +3223,6 @@
 			</li>
 			<li>
 				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>24</x>
-				<z>73</z>
-				<rot>1</rot>
-			</li>
-			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
 				<x>22</x>
 				<z>77</z>
 			</li>
@@ -3888,16 +3262,6 @@
 				<shapeOrDef>StandingLamp_Green</shapeOrDef>
 				<x>23</x>
 				<z>76</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_PassiveVent</shapeOrDef>
-				<x>23</x>
-				<z>75</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_PassiveVent</shapeOrDef>
-				<x>5</x>
-				<z>75</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
@@ -4277,28 +3641,8 @@
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>22</x>
-				<z>97</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>23</x>
-				<z>97</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
 				<x>24</x>
 				<z>97</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>22</x>
-				<z>98</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>23</x>
-				<z>98</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHullTile</shapeOrDef>
@@ -4721,11 +4065,6 @@
 				<shapeOrDef>FirefoamPopper</shapeOrDef>
 				<x>21</x>
 				<z>81</z>
-			</li>
-			<li>
-				<shapeOrDef>Heater</shapeOrDef>
-				<x>31</x>
-				<z>58</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
@@ -4763,10 +4102,1204 @@
 				<z>65</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipInside_PassiveVent</shapeOrDef>
+				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
 				<x>12</x>
+				<z>68</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
+				<x>16</x>
+				<z>68</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
+				<x>14</x>
+				<z>68</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>StandingLamp_Red</shapeOrDef>
+				<x>12</x>
+				<z>68</z>
+			</li>
+			<li>
+				<shapeOrDef>StandingLamp_Green</shapeOrDef>
+				<x>16</x>
+				<z>68</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>14</x>
+				<z>67</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>12</x>
+				<z>67</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>13</x>
+				<z>67</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>15</x>
+				<z>67</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>16</x>
+				<z>67</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>15</x>
+				<z>68</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>13</x>
+				<z>68</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>13</x>
+				<z>66</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>14</x>
+				<z>66</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>15</x>
+				<z>66</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>18</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>18</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>18</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>18</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>18</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>17</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>17</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>17</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>17</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>19</x>
+				<z>91</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>20</x>
+				<z>91</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>8</x>
+				<z>91</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>9</x>
+				<z>91</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>32</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>32</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>33</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>33</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>25</x>
+				<z>72</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>25</x>
+				<z>73</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>26</x>
+				<z>72</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>26</x>
+				<z>73</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
+				<z>72</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
+				<x>28</x>
+				<z>72</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
+				<x>28</x>
+				<z>73</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
+				<z>73</z>
+			</li>
+			<li>
+				<shapeOrDef>Turret_MiniTurret</shapeOrDef>
+				<stuff>Uranium</stuff>
+				<z>73</z>
+			</li>
+			<li>
+				<shapeOrDef>Turret_MiniTurret</shapeOrDef>
+				<stuff>Uranium</stuff>
+				<x>28</x>
+				<z>73</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>6</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>FirefoamPopper</shapeOrDef>
+				<x>23</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>FirefoamPopper</shapeOrDef>
+				<x>5</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>20</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>8</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>7</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>21</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>StandingLamp</shapeOrDef>
+				<x>7</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>StandingLamp</shapeOrDef>
+				<x>21</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>FirefoamPopper</shapeOrDef>
+				<x>7</x>
+				<z>81</z>
+			</li>
+			<li>
+				<shapeOrDef>FirefoamPopper</shapeOrDef>
+				<x>4</x>
+				<z>81</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>3</x>
+				<z>81</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>3</x>
+				<z>82</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>3</x>
+				<z>83</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>3</x>
+				<z>84</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>3</x>
+				<z>85</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>25</x>
+				<z>81</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>25</x>
+				<z>82</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>25</x>
+				<z>83</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>25</x>
+				<z>84</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>25</x>
+				<z>85</z>
+			</li>
+			<li>
+				<shapeOrDef>SpaceCrewMarine</shapeOrDef>
+				<x>6</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-12</x>
+				<z>65</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-15</x>
+				<z>65</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-15</x>
+				<z>66</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>40</x>
+				<z>65</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>43</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>43</x>
+				<z>65</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>43</x>
+				<z>66</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
+				<x>40</x>
 				<z>63</z>
 				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
+				<x>40</x>
+				<z>64</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
+				<x>41</x>
+				<z>66</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
+				<x>42</x>
+				<z>66</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
+				<x>-14</x>
+				<z>66</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
+				<x>-13</x>
+				<z>66</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
+				<x>-12</x>
+				<z>64</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
+				<x>-12</x>
+				<z>63</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-14</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-14</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-14</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-14</x>
+				<z>65</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-13</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-13</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-13</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-13</x>
+				<z>65</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>41</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>41</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>41</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>41</x>
+				<z>65</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>42</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>42</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>42</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>42</x>
+				<z>65</z>
+			</li>
+			<li>
+				<shapeOrDef>Heater</shapeOrDef>
+				<x>39</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>SpaceCrewMarine</shapeOrDef>
+				<x>32</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>31</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>8</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>9</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>9</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>19</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>20</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>10</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>18</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>8</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>7</x>
+				<z>56</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>20</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>21</x>
+				<z>56</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>21</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>7</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneOne</shapeOrDef>
+				<x>8</x>
+				<z>60</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneOne</shapeOrDef>
+				<x>20</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>20</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>21</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>21</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>21</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>21</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>21</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>7</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>7</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>7</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>7</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>7</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>8</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>34</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>33</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>5</x>
+				<z>75</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>23</x>
+				<z>75</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>3</x>
+				<z>71</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>25</x>
+				<z>71</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>4</x>
+				<z>72</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>4</x>
+				<z>73</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>24</x>
+				<z>72</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>24</x>
+				<z>73</z>
+			</li>
+			<li>
+				<shapeOrDef>StandingLamp</shapeOrDef>
+				<x>-4</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-7</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-6</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-6</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-6</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-6</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-6</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>-11</x>
+				<z>54</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-11</x>
+				<z>53</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>-13</x>
+				<z>54</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>-11</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>-13</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>53</z>
+			</li>
+			<li>
+				<shapeOrDef>FirefoamPopper</shapeOrDef>
+				<x>-13</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>StandingLamp_Red</shapeOrDef>
+				<x>-13</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-12</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-15</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-15</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-15</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-15</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-15</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-15</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-15</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-15</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-15</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>-15</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
+				<x>-15</x>
+				<z>53</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-13</x>
+				<z>53</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-15</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>39</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>Heater</shapeOrDef>
+				<x>-11</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>SpaceCrew</shapeOrDef>
+				<x>-4</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>-16</x>
+				<z>65</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>44</x>
+				<z>65</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>53</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>41</x>
+				<z>53</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>39</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>38</x>
+				<z>53</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>39</x>
+				<z>54</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
+				<x>43</x>
+				<z>53</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>41</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>41</x>
+				<z>54</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>39</x>
+				<z>53</z>
+			</li>
+			<li>
+				<shapeOrDef>FirefoamPopper</shapeOrDef>
+				<x>41</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>StandingLamp_Green</shapeOrDef>
+				<x>41</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>Stool</shapeOrDef>
+				<stuff>WoodLog</stuff>
+				<x>38</x>
+				<z>57</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>Stool</shapeOrDef>
+				<stuff>WoodLog</stuff>
+				<x>36</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>38</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>40</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>43</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>43</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>43</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>43</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>43</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>43</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>43</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>43</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>43</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>43</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>StandingLamp</shapeOrDef>
+				<x>-11</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>StandingLamp</shapeOrDef>
+				<x>39</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>-16</x>
+				<z>66</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
+				<x>-11</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
+				<x>-10</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
+				<x>39</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
+				<x>38</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-12</x>
+				<z>66</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>40</x>
+				<z>66</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>40</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>40</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>40</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>40</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
+				<x>43</x>
+				<z>67</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
+				<x>-15</x>
+				<z>67</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>44</x>
+				<z>66</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>-12</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>-12</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>-12</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>-12</x>
+				<z>58</z>
 			</li>
 			<li>
 				<shapeOrDef>Shelf</shapeOrDef>
@@ -4790,41 +5323,16 @@
 				<rot>2</rot>
 			</li>
 			<li>
-				<shapeOrDef>Bedroll</shapeOrDef>
-				<stuff>DevilstrandCloth</stuff>
-				<x>-6</x>
-				<z>58</z>
-				<rot>2</rot>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Corner_OneTwoFlip</shapeOrDef>
 				<x>-3</x>
 				<z>53</z>
 				<rot>3</rot>
 			</li>
 			<li>
-				<shapeOrDef>Dresser</shapeOrDef>
-				<stuff>WoodLog</stuff>
-				<x>-5</x>
-				<z>55</z>
-			</li>
-			<li>
 				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
 				<x>3</x>
 				<z>61</z>
 				<rot>1</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneTwo</shapeOrDef>
-				<x>18</x>
-				<z>54</z>
-				<rot>3</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneTwoFlip</shapeOrDef>
-				<x>11</x>
-				<z>54</z>
-				<rot>3</rot>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Corner_OneTwoFlip</shapeOrDef>
@@ -4862,11 +5370,6 @@
 				<rot>2</rot>
 			</li>
 			<li>
-				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
-				<x>15</x>
-				<z>54</z>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Corner_OneTwoFlip</shapeOrDef>
 				<x>17</x>
 				<z>65</z>
@@ -4885,6 +5388,43 @@
 				<rot>3</rot>
 			</li>
 			<li>
+				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
+				<x>5</x>
+				<z>78</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
+				<x>5</x>
+				<z>70</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
+				<x>23</x>
+				<z>70</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
+				<x>23</x>
+				<z>67</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
+				<x>5</x>
+				<z>67</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
+				<x>23</x>
+				<z>78</z>
+			</li>
+			<li>
+				<shapeOrDef>Shelf</shapeOrDef>
+				<stuff>WoodLog</stuff>
+				<x>31</x>
+				<z>58</z>
+				<rot>1</rot>
+			</li>
+			<li>
 				<shapeOrDef>Shelf</shapeOrDef>
 				<stuff>Steel</stuff>
 				<x>9</x>
@@ -4899,48 +5439,22 @@
 				<rot>2</rot>
 			</li>
 			<li>
-				<shapeOrDef>Table1x2c</shapeOrDef>
-				<stuff>WoodLog</stuff>
-				<x>37</x>
-				<z>57</z>
-				<rot>1</rot>
+				<shapeOrDef>Ship_Corner_OneTwo</shapeOrDef>
+				<x>2</x>
+				<z>71</z>
+				<rot>3</rot>
 			</li>
 			<li>
-				<shapeOrDef>Table1x2c</shapeOrDef>
-				<stuff>WoodLog</stuff>
-				<x>34</x>
-				<z>57</z>
-				<rot>1</rot>
+				<shapeOrDef>Ship_Corner_OneTwoFlip</shapeOrDef>
+				<x>27</x>
+				<z>71</z>
+				<rot>3</rot>
 			</li>
 			<li>
-				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
-				<x>5</x>
-				<z>78</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
-				<x>5</x>
-				<z>70</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
-				<x>23</x>
-				<z>70</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
-				<x>23</x>
-				<z>67</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
-				<x>5</x>
-				<z>67</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipCapacitorSmall</shapeOrDef>
-				<x>23</x>
-				<z>78</z>
+				<shapeOrDef>Bedroll</shapeOrDef>
+				<stuff>DevilstrandCloth</stuff>
+				<x>-11</x>
+				<z>56</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHardpoint</shapeOrDef>
@@ -4953,49 +5467,9 @@
 				<z>60</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>-14</x>
-				<z>54</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>-14</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>-14</x>
-				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
-				<x>-14</x>
-				<z>56</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpoint</shapeOrDef>
-				<x>10</x>
-				<z>51</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpoint</shapeOrDef>
-				<x>17</x>
-				<z>51</z>
-			</li>
-			<li>
 				<shapeOrDef>Turret_Autocannon</shapeOrDef>
 				<x>2</x>
 				<z>63</z>
-			</li>
-			<li>
-				<shapeOrDef>Turret_Autocannon</shapeOrDef>
-				<x>10</x>
-				<z>51</z>
-			</li>
-			<li>
-				<shapeOrDef>Turret_Autocannon</shapeOrDef>
-				<x>17</x>
-				<z>51</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHardpoint</shapeOrDef>
@@ -5011,26 +5485,6 @@
 				<shapeOrDef>ShipTurret_Plasma</shapeOrDef>
 				<x>32</x>
 				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>41</x>
-				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>41</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>41</x>
-				<z>54</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
-				<x>41</x>
-				<z>56</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipTurret_Plasma</shapeOrDef>
@@ -5118,9 +5572,89 @@
 				<z>72</z>
 			</li>
 			<li>
-				<shapeOrDef>ChemfuelPoweredGenerator</shapeOrDef>
-				<x>34</x>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>6</x>
+				<z>86</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>4</x>
+				<z>86</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>4</x>
+				<z>88</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>6</x>
+				<z>88</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>5</x>
+				<z>80</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>-14</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>41</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>-15</x>
 				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>-15</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>-15</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>-15</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
+				<x>-15</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>42</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTurret_Laser</shapeOrDef>
+				<x>42</x>
+				<z>56</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>42</x>
+				<z>58</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>42</x>
+				<z>60</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsink</shapeOrDef>
+				<x>42</x>
+				<z>62</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
@@ -5135,27 +5669,9 @@
 				<rot>3</rot>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
-				<x>-8</x>
-				<z>60</z>
-				<rot>1</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
-				<x>-7</x>
-				<z>52</z>
-				<rot>3</rot>
-			</li>
-			<li>
 				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
 				<x>29</x>
 				<z>54</z>
-				<rot>3</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
-				<x>35</x>
-				<z>52</z>
 				<rot>3</rot>
 			</li>
 			<li>
@@ -5169,12 +5685,6 @@
 				<x>36</x>
 				<z>60</z>
 				<rot>1</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
-				<x>2</x>
-				<z>71</z>
-				<rot>3</rot>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
@@ -5246,9 +5756,25 @@
 			</li>
 			<li>
 				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
-				<x>26</x>
-				<z>71</z>
-				<rot>3</rot>
+				<x>15</x>
+				<z>70</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
+				<x>13</x>
+				<z>70</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
+				<x>-7</x>
+				<z>62</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
+				<x>35</x>
+				<z>62</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Engine_Small</shapeOrDef>
@@ -5259,11 +5785,6 @@
 				<shapeOrDef>Ship_Engine_Small</shapeOrDef>
 				<x>25</x>
 				<z>53</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Engine</shapeOrDef>
-				<x>14</x>
-				<z>51</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Engine</shapeOrDef>
@@ -5290,420 +5811,32 @@
 				<z>53</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHeatsinkLarge</shapeOrDef>
-				<x>5</x>
-				<z>91</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsinkLarge</shapeOrDef>
-				<x>22</x>
-				<z>83</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsinkLarge</shapeOrDef>
-				<x>22</x>
-				<z>91</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipSalvageBay</shapeOrDef>
-				<x>-9</x>
-				<z>56</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
-				<x>12</x>
-				<z>68</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
-				<x>16</x>
-				<z>68</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>14</x>
-				<z>68</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
-				<x>15</x>
-				<z>70</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneThree</shapeOrDef>
-				<x>13</x>
-				<z>70</z>
-			</li>
-			<li>
-				<shapeOrDef>StandingLamp_Red</shapeOrDef>
-				<x>12</x>
-				<z>68</z>
-			</li>
-			<li>
-				<shapeOrDef>StandingLamp_Green</shapeOrDef>
-				<x>16</x>
-				<z>68</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>14</x>
-				<z>67</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>12</x>
-				<z>67</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>13</x>
-				<z>67</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>15</x>
-				<z>67</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>16</x>
-				<z>67</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>15</x>
-				<z>68</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>13</x>
-				<z>68</z>
-			</li>
-			<li>
 				<shapeOrDef>ShipCombatShieldGenerator</shapeOrDef>
 				<radius>37</radius>
 				<x>14</x>
 				<z>65</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>13</x>
-				<z>66</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>14</x>
-				<z>66</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>15</x>
-				<z>66</z>
-			</li>
-			<li>
-				<shapeOrDef>FirefoamPopper</shapeOrDef>
-				<x>14</x>
-				<z>63</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipAirlock</shapeOrDef>
-				<x>16</x>
-				<z>62</z>
+				<shapeOrDef>Table2x4c</shapeOrDef>
+				<stuff>WoodLog</stuff>
+				<x>35</x>
+				<z>57</z>
 				<rot>1</rot>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>17</x>
-				<z>63</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>18</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>18</x>
-				<z>59</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>18</x>
-				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>18</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>18</x>
-				<z>62</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>17</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>17</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>17</x>
-				<z>59</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>17</x>
-				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>17</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>17</x>
-				<z>62</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>12</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>16</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>19</x>
+				<shapeOrDef>ShipHeatsinkLarge</shapeOrDef>
+				<x>5</x>
 				<z>91</z>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>20</x>
+				<shapeOrDef>ShipHeatsinkLarge</shapeOrDef>
+				<x>22</x>
+				<z>83</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHeatsinkLarge</shapeOrDef>
+				<x>22</x>
 				<z>91</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>8</x>
-				<z>91</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
-				<x>9</x>
-				<z>91</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>19</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>20</x>
-				<z>57</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>32</x>
-				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>32</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>33</x>
-				<z>60</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>33</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>25</x>
-				<z>72</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>25</x>
-				<z>73</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>26</x>
-				<z>72</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>26</x>
-				<z>73</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<z>72</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>28</x>
-				<z>72</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
-				<x>28</x>
-				<z>73</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
-				<z>73</z>
-			</li>
-			<li>
-				<shapeOrDef>Turret_MiniTurret</shapeOrDef>
-				<stuff>Uranium</stuff>
-				<z>73</z>
-			</li>
-			<li>
-				<shapeOrDef>Turret_MiniTurret</shapeOrDef>
-				<stuff>Uranium</stuff>
-				<x>28</x>
-				<z>73</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipTorpedo_HighExplosive</shapeOrDef>
-				<x>5</x>
-				<z>62</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipTorpedo_HighExplosive</shapeOrDef>
-				<x>5</x>
-				<z>63</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipTorpedo_HighExplosive</shapeOrDef>
-				<x>23</x>
-				<z>62</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipTorpedo_HighExplosive</shapeOrDef>
-				<x>23</x>
-				<z>63</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>6</x>
-				<z>62</z>
-			</li>
-			<li>
-				<shapeOrDef>FirefoamPopper</shapeOrDef>
-				<x>23</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>FirefoamPopper</shapeOrDef>
-				<x>5</x>
-				<z>61</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>20</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>8</x>
-				<z>58</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneTwoFlip</shapeOrDef>
-				<x>8</x>
-				<z>60</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Corner_OneTwo</shapeOrDef>
-				<x>20</x>
-				<z>59</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>7</x>
-				<z>59</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>21</x>
-				<z>59</z>
-			</li>
-			<li>
-				<shapeOrDef>StandingLamp</shapeOrDef>
-				<x>7</x>
-				<z>59</z>
-			</li>
-			<li>
-				<shapeOrDef>StandingLamp</shapeOrDef>
-				<x>21</x>
-				<z>59</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
-				<x>9</x>
-				<z>65</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
-				<x>19</x>
-				<z>65</z>
-			</li>
-			<li>
-				<shapeOrDef>Turret_MiniTurret</shapeOrDef>
-				<stuff>Uranium</stuff>
-				<x>19</x>
-				<z>65</z>
-			</li>
-			<li>
-				<shapeOrDef>Turret_MiniTurret</shapeOrDef>
-				<stuff>Uranium</stuff>
-				<x>9</x>
-				<z>65</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>6</x>
-				<z>86</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>4</x>
-				<z>86</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>4</x>
-				<z>88</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>6</x>
-				<z>88</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>5</x>
-				<z>80</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipHeatsinkLarge</shapeOrDef>
@@ -5711,328 +5844,513 @@
 				<z>83</z>
 			</li>
 			<li>
-				<shapeOrDef>FirefoamPopper</shapeOrDef>
-				<x>7</x>
-				<z>81</z>
-			</li>
-			<li>
-				<shapeOrDef>FirefoamPopper</shapeOrDef>
-				<x>4</x>
-				<z>81</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>3</x>
-				<z>81</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>3</x>
-				<z>82</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>3</x>
-				<z>83</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>3</x>
-				<z>84</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>3</x>
-				<z>85</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>25</x>
-				<z>81</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>25</x>
-				<z>82</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>25</x>
-				<z>83</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>25</x>
-				<z>84</z>
-			</li>
-			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>25</x>
-				<z>85</z>
-			</li>
-			<li>
-				<shapeOrDef>SpaceCrew</shapeOrDef>
-				<x>-4</x>
+				<shapeOrDef>ShipSalvageBay</shapeOrDef>
+				<x>-8</x>
 				<z>56</z>
 			</li>
 			<li>
-				<shapeOrDef>Bedroll</shapeOrDef>
-				<stuff>DevilstrandCloth</stuff>
-				<x>-4</x>
-				<z>58</z>
-				<rot>2</rot>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>12</x>
+				<z>63</z>
 			</li>
 			<li>
-				<shapeOrDef>SpaceCrewMarine</shapeOrDef>
-				<x>6</x>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>13</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>14</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>14</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>15</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>16</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipTurret_Plasma_Large</shapeOrDef>
+				<x>14</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>12</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>16</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>11</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>11</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>12</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>12</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>13</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>15</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>16</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>16</x>
+				<z>61</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>17</x>
+				<z>57</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>17</x>
+				<z>63</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>11</x>
 				<z>64</z>
 			</li>
 			<li>
-				<shapeOrDef>MealSurvivalPack</shapeOrDef>
-				<x>8</x>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>10</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>18</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>17</x>
+				<z>64</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>13</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>StandingLamp_Red</shapeOrDef>
+				<x>12</x>
 				<z>57</z>
 			</li>
 			<li>
-				<shapeOrDef>MealSurvivalPack</shapeOrDef>
-				<x>9</x>
+				<shapeOrDef>StandingLamp_Green</shapeOrDef>
+				<x>16</x>
 				<z>57</z>
 			</li>
 			<li>
-				<shapeOrDef>MealSurvivalPack</shapeOrDef>
-				<x>9</x>
-				<z>56</z>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>12</x>
+				<z>54</z>
 			</li>
 			<li>
-				<shapeOrDef>Chemfuel</shapeOrDef>
-				<x>19</x>
-				<z>57</z>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>12</x>
+				<z>55</z>
 			</li>
 			<li>
-				<shapeOrDef>Chemfuel</shapeOrDef>
-				<x>20</x>
-				<z>57</z>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>16</x>
+				<z>54</z>
 			</li>
 			<li>
-				<shapeOrDef>Chemfuel</shapeOrDef>
-				<x>33</x>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>12</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>12</x>
 				<z>55</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-12</x>
-				<z>57</z>
+				<x>16</x>
+				<z>54</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>40</x>
-				<z>57</z>
+				<x>16</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>14</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>15</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>13</x>
+				<z>54</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>12</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>12</x>
+				<z>53</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Engine</shapeOrDef>
+				<x>14</x>
+				<z>52</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>-12</x>
-				<z>66</z>
-				<rot>2</rot>
+				<x>16</x>
+				<z>51</z>
 			</li>
 			<li>
 				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>-15</x>
-				<z>67</z>
-				<rot>2</rot>
+				<x>12</x>
+				<z>51</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>43</x>
-				<z>67</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
-				<x>40</x>
-				<z>66</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>41</x>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>12</x>
 				<z>62</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>-14</x>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>13</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>15</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>16</x>
 				<z>62</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>-14</x>
-				<z>64</z>
+				<shapeOrDef>Ship_SensorCluster</shapeOrDef>
+				<x>12</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_SensorCluster</shapeOrDef>
+				<x>16</x>
+				<z>62</z>
+			</li>
+			<li>
+				<shapeOrDef>Heater</shapeOrDef>
+				<x>13</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>FirefoamPopper</shapeOrDef>
+				<x>15</x>
+				<z>55</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>11</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<x>17</x>
+				<z>59</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Engine_Small</shapeOrDef>
+				<x>-8</x>
+				<z>51</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Engine_Small</shapeOrDef>
+				<x>35</x>
+				<z>51</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-12</x>
-				<z>65</z>
+				<x>33</x>
+				<z>53</z>
 			</li>
 			<li>
 				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>65</z>
+				<x>-5</x>
+				<z>53</z>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>-15</x>
-				<z>66</z>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>-9</x>
+				<z>51</z>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>40</x>
-				<z>65</z>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>-7</x>
+				<z>53</z>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>64</z>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>35</x>
+				<z>53</z>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>65</z>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>37</x>
+				<z>51</z>
 			</li>
 			<li>
-				<shapeOrDef>Ship_Beam</shapeOrDef>
-				<x>43</x>
-				<z>66</z>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>-6</x>
+				<z>52</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHeatsink</shapeOrDef>
-				<x>41</x>
-				<z>64</z>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>34</x>
+				<z>52</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
-				<x>40</x>
-				<z>63</z>
-				<rot>1</rot>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
-				<x>40</x>
-				<z>64</z>
-				<rot>1</rot>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
-				<x>41</x>
-				<z>66</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
-				<x>42</x>
-				<z>66</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
-				<x>-14</x>
-				<z>66</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
-				<x>-13</x>
-				<z>66</z>
-				<rot>2</rot>
-			</li>
-			<li>
-				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
-				<x>-12</x>
-				<z>64</z>
+				<shapeOrDef>Ship_Corner_OneOne</shapeOrDef>
+				<x>34</x>
+				<z>51</z>
 				<rot>3</rot>
 			</li>
 			<li>
-				<shapeOrDef>ShipInside_PassiveCooler</shapeOrDef>
-				<x>-12</x>
-				<z>63</z>
+				<shapeOrDef>Ship_Corner_OneOne</shapeOrDef>
+				<x>33</x>
+				<z>52</z>
 				<rot>3</rot>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-14</x>
-				<z>62</z>
+				<shapeOrDef>Ship_Corner_OneOne</shapeOrDef>
+				<x>-5</x>
+				<z>52</z>
+				<rot>2</rot>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-14</x>
+				<shapeOrDef>Ship_Corner_OneOne</shapeOrDef>
+				<x>-6</x>
+				<z>51</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>FirefoamPopper</shapeOrDef>
+				<x>17</x>
 				<z>63</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-14</x>
-				<z>64</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-14</x>
-				<z>65</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-13</x>
-				<z>62</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-13</x>
+				<shapeOrDef>FirefoamPopper</shapeOrDef>
+				<x>11</x>
 				<z>63</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>24</x>
+				<z>72</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>4</x>
+				<z>72</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>4</x>
+				<z>73</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipAirlock</shapeOrDef>
+				<x>24</x>
+				<z>73</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneTwoFlip</shapeOrDef>
+				<x>11</x>
+				<z>54</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneTwo</shapeOrDef>
+				<x>18</x>
+				<z>54</z>
+				<rot>3</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneOne</shapeOrDef>
+				<x>17</x>
+				<z>53</z>
+				<rot>1</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Corner_OneOne</shapeOrDef>
+				<x>11</x>
+				<z>53</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
+				<x>11</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipHardpointSmall</shapeOrDef>
+				<x>17</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>Turret_MiniTurret</shapeOrDef>
+				<stuff>Uranium</stuff>
+				<x>11</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>Turret_MiniTurret</shapeOrDef>
+				<stuff>Uranium</stuff>
+				<x>17</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>52</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
+				<x>44</x>
+				<z>51</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
+				<x>-16</x>
+				<z>51</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>-16</x>
+				<z>67</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
+				<x>-16</x>
+				<z>68</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
+				<x>44</x>
+				<z>68</z>
+				<rot>2</rot>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam</shapeOrDef>
+				<x>44</x>
+				<z>67</z>
+			</li>
+			<li>
+				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
 				<x>-13</x>
-				<z>64</z>
+				<z>52</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>-13</x>
-				<z>65</z>
-			</li>
-			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
+				<shapeOrDef>ShipInside_SolarGenerator</shapeOrDef>
 				<x>41</x>
-				<z>62</z>
+				<z>52</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>41</x>
-				<z>63</z>
+				<shapeOrDef>Ship_Corner_OneThreeFlip</shapeOrDef>
+				<x>-8</x>
+				<z>60</z>
+				<rot>1</rot>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>41</x>
-				<z>64</z>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>22</x>
+				<z>98</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>41</x>
-				<z>65</z>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>23</x>
+				<z>97</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>42</x>
-				<z>62</z>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>23</x>
+				<z>98</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>42</x>
-				<z>63</z>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>22</x>
+				<z>97</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>42</x>
-				<z>64</z>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>6</x>
+				<z>98</z>
 			</li>
 			<li>
-				<shapeOrDef>ShipHullTile</shapeOrDef>
-				<x>42</x>
-				<z>65</z>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>5</x>
+				<z>98</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>5</x>
+				<z>97</z>
+			</li>
+			<li>
+				<shapeOrDef>Ship_Beam_Unpowered</shapeOrDef>
+				<x>6</x>
+				<z>97</z>
 			</li>
 		</parts>
 		<core>
