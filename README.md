@@ -1,5 +1,7 @@
 # RimMinmatarShips
 
+IN RUST WE TRUST
+
 An EVE online themed ship pack for the Rimworld mod Save Our Ship 2. Does not add new items, just ship designs to encounter/blast/capture in your playthroughs.
 
 (add copyright for rim & eve here, please mr. laywers give me a minute)
@@ -10,6 +12,7 @@ An EVE online themed ship pack for the Rimworld mod Save Our Ship 2. Does not ad
 
 ## In Progress
 
+- Thrasher (destroyer)
 - Breacher (frigate)
 - Probe (frigate, civilian scanner/explorer)
 
@@ -17,7 +20,6 @@ An EVE online themed ship pack for the Rimworld mod Save Our Ship 2. Does not ad
 
 - Republic Fleet Firetail + Burst (duo frigates)
 - Warrior II drones for accompanying one of the larger ships
-- Thrasher (destroyer)
 - Rupture (cruiser)
 - Stabber/Vagabond (cruiser or heavy assault cruiser)
 - Hurricane (battlecruiser)
