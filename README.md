@@ -12,9 +12,10 @@ An EVE online themed ship pack for the Rimworld mod Save Our Ship 2. Does not ad
 
 ## In Progress
 
-- Thrasher (destroyer)
+- Thrasher (destroyer, finishing touches)
 - Breacher (frigate)
 - Probe (frigate, civilian scanner/explorer)
+- Bouncer (Sentry drone)
 
 ## Currently Planned
 
@@ -25,6 +26,7 @@ An EVE online themed ship pack for the Rimworld mod Save Our Ship 2. Does not ad
 - Hurricane (battlecruiser)
 - Tornado (battlecruiser, oversized armanent)
 - Wreathe (Trade ship / Cargo)
+- Minmatar Control Tower (small POS, station)
 
 ## Maybe?
 - Minmatar Shuttle carrying a stupid expensive item?
